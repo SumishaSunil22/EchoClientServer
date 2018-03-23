@@ -1,2 +1,2 @@
-class EchoClient
+public class EchoClient
 {
