@@ -44,7 +44,7 @@ public class EchoServer
 	{
 		EchoServer s = new EchoServer(9999);
 		s.serve();
-	}
+}
 
 	private ServerSocket server;
 }
