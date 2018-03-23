@@ -35,3 +35,9 @@ public class EchoServer
 				client.close();
 			}
 		}
+		catch (Exception err)
+		{
+			System.err.println(err);
+		}
+	}
+
